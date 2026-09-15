@@ -1,6 +1,6 @@
 # Rule-Based Expert System
 
-A Rule-Based Expert System developed as part of the Syntecxhub Artificial Intelligence Internship – Project 2.
+A Rule-Based Expert System developed as part of the Syntecxhub Artificial Intelligence Internship – Task 1.
 
 ## Project Overview
 
