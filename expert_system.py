@@ -1,5 +1,5 @@
 # Rule-Based Expert System
-# Syntecxhub Artificial Intelligence Internship - Project 2
+# Syntecxhub Artificial Intelligence Internship - Task 1
 
 class ExpertSystem:
     def __init__(self):
